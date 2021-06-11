@@ -5,4 +5,4 @@
 - Searching data
 - Filtering and value counting with hash tables
 
-[Click here](https://www.linkedin.com/learning/programming-foundations-algorithms)
+[Click here](https://www.linkedin.com/learning/programming-foundations-algorithms) for the tutorial of this course.
